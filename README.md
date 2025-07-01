@@ -1,28 +1,51 @@
-# Hi there! 👋 I'm Javier A. Carbone (Ernot)
+<h1 align="center">Hey there! I'm Javier A. Carbone (Ernott)👨‍💻</h1>
 
-🚀 Aspiring Software Developer Junior Student Dev
+![animated Ernott](./Public/9%20-%20copia.png)
 
-🌱 Constantly learning and exploring the fascinating world of programming
+<p align="center">
+  Junior developer passionate about backend, automation, and purpose-driven projects.
+</p>
 
-About Me:
+<p align="center">
+  ✨ Constantly exploring Python, Git, and backend with Node.js <br>
+  ☕ Coffee lover blending creativity and code <br>
+  🚀 Currently diving into Docker and scripting for automation
+</p>
 
-- 🌎 From Venezuela, currently immersed in coding adventures.
-- 📚 Passionate about improving workflows and solving technical problems with Python and Git.
-- ⚡ Enthusiastic about sports analytics and using code to uncover insights into team performance.
+---
 
-Languages & Tools:
+### 🧠 About Me
 
-- Programming Languages: Python Bash
-- Technologies: Git Linux WSL
-- Interests: Games Fitness Development Efficiency
+- 🧰 I enjoy Linux environments and the efficiency of WSL.
+- 🌐 I build Telegram bots using Node.js and TypeScript.
+- 🛠️ I’m looking for collaborative environments like EnvíaMe to grow.
+- 📄 I'm also into professional documentation with Markdown and GitHub Pages.
+- 🎨 I mix tech and design—everything from scripts to animated branding.
 
-What I’m Working On:
+---
 
-- 🔧 Developing Python scripts to automate tasks and improve problem-solving efficiency.
-- 🏋️‍♂️ Exploring the intersection of gaming and fitness, merging coding with my personal interests.
+### 💻 Favorite Tools & Technologies
 
-Let's Connect!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,git,linux,docker,vscode,markdown,github,html" alt="Tech Stack" />
+</p>
 
-- 🌟 LinkedIn
-- 💬 Open to collaboration on projects and learning from others. Feel free to reach out!
--->
+---
+
+### 📫 Connect With Me
+
+![Ernott](./Public/14%20-%20copia.png)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/javier-a-carbone-7b4371198/)
+- 📬 Reach out directly via [email](mailto:thegamer.58@hotmail.com)
+
+---
+
+<details>
+<summary>✨ A few fun facts...</summary>
+
+- I love designing creative barista and latte art training content.
+- I’m building a personal brand through GitHub and social media.
+- I dream of sharing my dev journey through a blog or tech stream.
+
+</details>
