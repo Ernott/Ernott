@@ -1,12 +1,14 @@
 <h1 align="center">Hey there! I'm Javier A. Carbone (Ernott)👨‍💻</h1>
 
-![animated Ernott](./Public/9%20-%20copia.png)
+<p align='center'>
+<img src="./Public/9%20-%20copia.png" alt="Descripción" width="200" height = '260'/>
+</p>
 
 <p align="center">
   Junior developer passionate about backend, automation, and purpose-driven projects.
 </p>
 
-<p align="center">
+<p>
   ✨ Constantly exploring Python, Git, and backend with Node.js <br>
   ☕ Coffee lover blending creativity and code <br>
   🚀 Currently diving into Docker and scripting for automation
