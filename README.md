@@ -8,6 +8,8 @@
   Junior developer passionate about backend, automation, and purpose-driven projects.
 </p>
 
+- 🖥 [My page](https://preview--my-image-showcase-folio.lovable.app/)
+
 <p>
   ✨ Constantly exploring Python, Git, and backend with Node.js <br>
   ☕ Coffee lover blending creativity and code <br>
@@ -19,8 +21,7 @@
 ### 🧠 About Me
 
 - 🧰 I enjoy Linux environments and the efficiency of WSL.
-- 🌐 I build Telegram bots using Node.js and TypeScript.
-- 🛠️ I’m looking for collaborative environments like EnvíaMe to grow.
+- 🛠️ I’m looking for collaborative environments to grow.
 - 📄 I'm also into professional documentation with Markdown and GitHub Pages.
 - 🎨 I mix tech and design—everything from scripts to animated branding.
 
