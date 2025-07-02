@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Junior developer passionate about backend, automation, and purpose-driven projects.
+  Junior developer passionate about front-end.
 </p>
 
 - 🖥 [My page](https://preview--my-image-showcase-folio.lovable.app/)
